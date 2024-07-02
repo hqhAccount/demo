@@ -1,2 +1,5 @@
 node_modules
 dist
+tsconfig.app.json
+tsconfig.node.json
+tsconfig.vitest.json
